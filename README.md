@@ -7,7 +7,7 @@ Tekijä: Dennis Boateng
 
 Tämä on kurssin oppimispäiväkirja.
 
-[Paivakirja1](paivakirja1)
-[Päiväkirja2](paivakirja2)
-[Päiväkirja3](paivakirja3)
+[Paivakirja1](paivakirja1.md)
+[Päiväkirja2](paivakirja2.md)
+[Päiväkirja3](paivakirja3.md)
 
