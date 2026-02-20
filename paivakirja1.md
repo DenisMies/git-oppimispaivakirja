@@ -2,13 +2,10 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Kirjoita tähän vastauksesi
 Mielestäni vaikeaa on ymmärtää hahmottamaan eroja tiedoston eri tilojen välillä (staged,modified,unmodified). Tämän lisäksi hankalaa on perua tekemiä toimintoja. Haarojen ymmärtäminen myös ehkä hieman hankalaa, ymmärrän kuitenkin paremmin kuin edelliset. Samalla iso määrä uusia komentoja saa pään pyörälle. Helpommiksi tehtäviksi voisin sanoa perus tiedostojen lisäämisen ja committaamisen, sekä git statuksen runsas käyttö.
 
 ## Osiossa käyttämäni Git-komennot
 
-| Komento | Kuvaus |
-| --------| ------ |
 
 | kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
 
